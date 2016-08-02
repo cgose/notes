@@ -1,6 +1,6 @@
-Markdown Getting Started
+Markdown Syntax
 ========================
-This is a simple introduction to compiling Markdown in VS Code.
+This will contain basic markdown syntax for reference
 
 Things you'll need:
 
